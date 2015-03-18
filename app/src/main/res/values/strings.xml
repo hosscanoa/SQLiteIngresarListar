@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SQLiteIngresarListar</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_listar">Listar</string>
+
+    <string name="strNombre">Nombre</string>
+    <string name="strApellido">Apellido</string>
+    <string name="strEdad">Edad</string>
+    <string name="strGuardar">Guardar</string>
+    <string name="title_activity_segunda">SegundaActivity</string>
+</resources>
