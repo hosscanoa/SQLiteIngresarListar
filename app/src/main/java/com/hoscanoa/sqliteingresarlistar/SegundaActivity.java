@@ -19,6 +19,7 @@ public class SegundaActivity extends Activity {
         cargar();
     }
 
+    //Carga los registros de la base de datos en una lista
     public void cargar()
     {
         BaseHelper baseHelper = new BaseHelper(this,"DEMODB",null,1);
